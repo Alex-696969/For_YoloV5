@@ -59,7 +59,7 @@
 ```bash
 git clone https://github.com/ultralytics/yolov5  # 克隆
 cd yolov5
-pip install -r requirements.txt  # 安装
+pip install -r requirements_origin.txt  # 安装
 ```
 
 </details>
